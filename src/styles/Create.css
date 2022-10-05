@@ -1,0 +1,47 @@
+.Create {
+    /* display: flex; */
+    text-align: center;
+    /* position: relative; */
+    width: 375px;
+    height: 813px;
+    overflow-y: scroll;
+    background-color: #F6F2FF;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+
+h2 {
+    margin-top: 65px;
+    color: #240D57;
+    align-items: center;
+   
+    width: auto;
+    height: 160px;
+    left: calc(50% - 321px/2);
+    top: 80px;
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+}
+
+/* .event-form {
+    width: 75%;
+    border: 1px solid red;
+    margin: 0vw;
+    padding: 5vw;
+    align-content: center; */
+    /* position:relative;  */
+    /* position:relative for .prevBtn and .nextBtn position:absolute; */
+/* } */
+
+form {
+    display: block;
+    justify-content: center;
+    align-items: center;
+    width: auto;
+    height: auto;
+    align-items: center;
+
+}
